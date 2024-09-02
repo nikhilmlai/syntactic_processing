@@ -1,2 +1,2 @@
-# syntactic_processing
+# Syntactic Processing
 Syntactic Processing Assignment
